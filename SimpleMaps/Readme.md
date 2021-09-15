@@ -5,29 +5,29 @@
 - Called Google Map API to display the map
 - To generate the random data, called faker API.
 
-![Untitled](Images/Untitled0)
+![Untitled](Images/Untitled0.png)
 
-![Untitled](Images/Untitled1)
+![Untitled](Images/Untitled1.png)
 
 `npm install -g parcel-bundler`
 
-![Untitled](Images/Untitled2)
+![Untitled](Images/Untitled2.png)
 
-![Untitled](Images/Untitled3)
+![Untitled](Images/Untitled3.png)
 
 `npm install faker`
 
 `parcel index.html`
 
-![Untitled](Images/Untitled4)
+![Untitled](Images/Untitled4.png)
 
-![Untitled](Images/Untitled5)
+![Untitled](Images/Untitled5.png)
 
-![Untitled](Images/Untitled6)
+![Untitled](Images/Untitled6.png)
 
 `npm install @types/faker`
 
-![Untitled](Images/Untitled7)
+![Untitled](Images/Untitled7.png)
 
 `***maps javascript API***` 
 
@@ -49,18 +49,18 @@ location:{
 }
 ```
 
-![Untitled](Images/Untitled8)
+![Untitled](Images/Untitled8.png)
 
-![Untitled](Images/Untitled9)
+![Untitled](Images/Untitled9.png)
 
-![Untitled](Images/Untitled10)
+![Untitled](Images/Untitled10.png)
 
-![Untitled](Images/Untitled11)
+![Untitled](Images/Untitled11.png)
 
-![Untitled](Images/Untitled12)
+![Untitled](Images/Untitled12.png)
 
-![Untitled](Images/Untitled13)
+![Untitled](Images/Untitled13.png)
 
-![Untitled](Images/Untitled14)
+![Untitled](Images/Untitled14.png)
 
 ## Thank You! 🙂
